@@ -1,3 +1,5 @@
+# This is updated from HAMimageclassification.py to include weights to balance the data
+
 '''
 The 7 classes of skin cancer lesions included in this dataset are:
 Melanocytic nevi (nv)
